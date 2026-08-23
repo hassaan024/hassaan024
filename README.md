@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hassaan Bukhari
 
-<!--
-**hassaan024/hassaan024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working on learning technology — production TypeScript across
+React, Node/NestJS, and Python ML services.
 
-Here are some ideas to get you started:
+I build the systems that record and assess how people learn: xAPI statement
+pipelines, role-scoped multi-tenant platforms, and NLP-based automated feedback.
+I'm part of the IEEE Learning Technology Standards Committee's xAPI subcommittee,
+contributing to the Total Learning Architecture publication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- **[LeafyLedger](#)** — Plant-growth prediction platform. One NestJS/Prisma API
+  serving both a React client and a desktop 3D simulator, alongside an
+  interpretable growth model in FastAPI.
+- **[Jamify](#)** — Real-time synchronized listening rooms over WebSockets, with
+  Redis-backed clock sync across clients.
+
+### Working with
+
+TypeScript · React · Node/Express · NestJS · Python · FastAPI · PostgreSQL ·
+MySQL · Docker · AWS · spaCy · Transformers
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/hassaan-bukhari/) · hassaanbukhari24@gmail.com
