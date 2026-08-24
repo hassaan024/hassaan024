@@ -1,7 +1,6 @@
 # Hassaan Bukhari
 
-Software engineer working on learning technology — production TypeScript across
-React, Node/NestJS, and Python ML services.
+Software engineer working on learning technology.
 
 I build the systems that record and assess how people learn: xAPI statement
 pipelines, role-scoped multi-tenant platforms, and NLP-based automated feedback.
