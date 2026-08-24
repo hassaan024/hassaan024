@@ -20,6 +20,6 @@ contributing to the Total Learning Architecture publication.
 TypeScript · React · Node/Express · NestJS · Python · FastAPI · PostgreSQL ·
 MySQL · Docker · AWS · spaCy · Transformers
 
-### Elsewhere
+### Contacts
 
 [LinkedIn](https://www.linkedin.com/in/hassaan-bukhari/) · hassaanbukhari24@gmail.com
