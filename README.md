@@ -4,7 +4,7 @@ Software engineer working on learning technology.
 
 I build the systems that record and assess how people learn: xAPI statement
 pipelines, role-scoped multi-tenant platforms, and NLP-based automated feedback.
-I'm part of the IEEE Learning Technology Standards Committee's xAPI subcommittee,
+I'm part of the IEEE Learning Technology Standards Committee,
 contributing to the Total Learning Architecture publication.
 
 ### Selected work
