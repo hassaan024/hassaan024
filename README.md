@@ -14,6 +14,9 @@ contributing to the Total Learning Architecture publication.
   interpretable growth model in FastAPI.
 - **[Jamify](#)** — Real-time synchronized listening rooms over WebSockets, with
   Redis-backed clock sync across clients.
+- **[Writing](https://github.com/hassaan024/writing)** — notes on
+  things I've built: clock synchronization, learning-record systems,
+  applied NLP.
 
 ### Working with
 
